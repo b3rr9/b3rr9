@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @B3RR9.
+- 👀 I love JDM cars & music.
+- 🌱 I’m currently learning NodeJS.
+- 💞️ I’m looking to collaborate on PHP & NodeJS web projects.
+- 📫 You can reach me through Jabber (B3RR9@riseup.net) or through Telegram (bbandzzz)
